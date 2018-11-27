@@ -12,6 +12,7 @@ setup(
     description="Parse database connection strings",
     long_description=long_description,
     long_description_content_type="text/markdown",
+    url="https://github.com/jobo3208/cxnstr",
     py_modules=['cxnstr'],
     entry_points={
         'console_scripts': ['cxnstr=cxnstr:main'],
