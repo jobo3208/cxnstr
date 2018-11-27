@@ -6,7 +6,7 @@ with open('README.md', 'r') as f:
 
 setup(
     name='cxnstr',
-    version='1.1.1',
+    version='1.1.2',
     author="Joe Boyd",
     author_email="josefuboyd@gmail.com",
     description="Parse database connection strings",
