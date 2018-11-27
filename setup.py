@@ -18,7 +18,7 @@ setup(
         'console_scripts': ['cxnstr=cxnstr:main'],
     },
     install_requires=[
-        'six>=1.11.0',
+        'six==1.11.0',
     ],
     classifiers=[
         "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
