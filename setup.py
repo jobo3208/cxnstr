@@ -6,7 +6,7 @@ with open('README.md', 'r') as f:
 
 setup(
     name='cxnstr',
-    version='1.1.3',
+    version='1.1.4',
     author="Joe Boyd",
     author_email="josefuboyd@gmail.com",
     description="Parse database connection strings",
@@ -21,7 +21,7 @@ setup(
         'six==1.11.0',
     ],
     classifiers=[
-        "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 3",
